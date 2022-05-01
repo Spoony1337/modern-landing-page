@@ -1,7 +1,13 @@
-# Landing-Page-Template
+😎 Modern landing page
+> This is a modern landing page concept for HostMC & free to use!
+
+![Screenshot](https://gyazo.com/2cde19251b1a6269ad5067fb80bb67c9 "Modern landing page")
 
 # Information
-Was originally made for HostMC now available open sourced for everyone to use aslong as you give (Spoony)[httos://github.com/Spoony1337] credit
+
+Was made for HostMC now public for use of anyone aslong as Spoony is credited
+
 
 # Authors
+
 Spoony
